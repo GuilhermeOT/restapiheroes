@@ -1,0 +1,24 @@
+{
+  "name": "restapiheroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeOT/restapiheroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeOT/restapiheroes/issues"
+  },
+  "homepage": "https://github.com/GuilhermeOT/restapiheroes#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

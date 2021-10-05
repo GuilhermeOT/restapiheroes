@@ -1,0 +1,40 @@
+{
+  "Herois": [
+    {
+      "id": 1,
+      "nome": "Edward Elric",
+      "afiliação": "Alquimista Federal",
+      "apelido": "Alquimista de Aço"
+    },
+    {
+      "id": 2,
+      "nome": "Alphonse Elric",
+      "afiliação": "Alquimista Federal",
+      "apelido": "Nenhum"
+    },
+    {
+      "nome": "Roy Mustang",
+      "afiliação": "Führer",
+      "apelido": "Alquimista de Aço",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nome": "Inveja",
+      "afiliação": "Homunculo",
+      "apelido": "Nenhum"
+    },
+    {
+      "id": 5,
+      "nome": "Preguiça",
+      "afiliação": "Homunculo",
+      "apelido": "Nenhum"
+    },
+    {
+      "id": 6,
+      "nome": "Escravo Número 23",
+      "afiliação": "Desconhecido",
+      "apelido": "Pai"
+    }
+  ]
+}
